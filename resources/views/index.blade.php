@@ -89,8 +89,8 @@
 	</div>
 
 	<!-- Load Bootstrap JS -->
-	<script type="text/javascript" src="template/js/jquery.min.js"></script>
-	<script type="text/javascript" src="template/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function () {
 		$("#btn-add,#btn-edit").click(function () {
